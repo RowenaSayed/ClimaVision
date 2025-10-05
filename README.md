@@ -19,7 +19,7 @@ The project is a web application designed to help users analyze weather conditio
 
 
 ### DashboardPage
-<img width="1366" height="1090" alt="image" src="https://github.com/user-attachments/assets/56d00f23-49ab-4d7d-8919-e8aa8eade700" />
+<img width="1366" height="1330" alt="image" src="https://github.com/user-attachments/assets/69a1d8f7-a85b-407a-86b4-433ae0914873" />
 
 ### HistoryPage
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/1f7ddbc8-05e8-44d8-b4c8-e5ebd7b821d2" />
